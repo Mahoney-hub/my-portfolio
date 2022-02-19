@@ -75,4 +75,13 @@
     font-size: 50%;
   }
 
+  .home {
+    flex-direction: column;
+
+    .image img {
+      height: 35rem;
+      width: 35rem;
+    }
+  }
+
 }
